@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"type": "module",
+	"scripts": {},
+	"devDependencies": {
+		"@sveltejs/kit": "^1.0.0-next.560"
+	}
+}
